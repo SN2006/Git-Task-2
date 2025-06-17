@@ -1,10 +1,10 @@
 first
 second
-third
+new third
 fourth
 fiveth
 sixth
 seventh
 eigth
 ninth
-tenth
+new tenth
