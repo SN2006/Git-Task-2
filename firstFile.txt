@@ -1,9 +1,9 @@
-line1
-line2
+modified line1 during step 7
+modified line2 during step 7
 line3
 line4
-line5
-line6
+modified line5 during step 8
+modified line6 during step 8
 line7
 line8
 line9
